@@ -16,7 +16,7 @@
 
 ## Lean Canvas №1 (UniFlow, B2C)
 
-![Lean Canvas UniFlow — личный ИИ-планировщик (B2C)](uniflow_assets/lean-canvas-b2c.png)
+![Lean Canvas UniFlow — личный ИИ-планировщик (B2C)](UniFlow/lean-canvas-b2c.png)
 
 ### 1. Сегменты потребителей (Customer Segments)
 
@@ -105,7 +105,6 @@
 - **D (Data):** количество реальных оплат, конверсия регистраций в подписку, стоимость привлечения платящего пользователя.
 - **I (Insights):** если оплатят не менее 8% пользователей, гипотезу готовности платить можно предварительно принять. Дальше нужно смотреть удержание и повторные оплаты.
 
-Эксперименты пока не проводились. Здесь описано, что именно собираемся проверять и по каким показателям оценим результат.
 
 ## 2. Расчет юнит-экономики
 
@@ -151,7 +150,7 @@ UniFlow Teams — общее рабочее пространство с ИИ-ч�
 
 ## Lean Canvas №2 (UniFlow Teams)
 
-![Lean Canvas UniFlow Teams — командный планировщик после Pivot](uniflow_assets/lean-canvas-teams.png)
+![Lean Canvas UniFlow Teams — командный планировщик после Pivot](UniFlow/lean-canvas-teams.png)
 
 ### 1. Сегменты потребителей (Customer Segments)
 
